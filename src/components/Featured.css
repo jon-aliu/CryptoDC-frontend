@@ -1,0 +1,53 @@
+.featured .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 4rem auto;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.featured .left {
+    padding: 1rem;
+}
+
+.featured h1 {
+    padding: 1rem 0;
+}
+
+.featured .input-container {
+    padding: 1rem 0;
+}
+
+.featured .right {
+    padding: 1rem;
+}
+
+.featured .img-container {
+    width: 100%;
+    display: flex;
+}
+
+.featured img {
+    max-width: 80%;
+    margin: auto;
+}
+
+@media screen and (max-width: 940px) {
+    .featured .container {
+        grid-template-columns: 1fr;
+        margin: 1rem 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
