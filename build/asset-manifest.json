@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eadfbae9.css",
+    "main.js": "/static/js/main.97b77087.js",
+    "static/media/image2.png": "/static/media/image2.e3b111d46a45a7be89bf.png",
+    "static/media/DCxCRYPTO.png": "/static/media/DCxCRYPTO.d8a055dcf3e5acbfa71e.png",
+    "static/media/CRYPTOxDC.png": "/static/media/CRYPTOxDC.42e7875318c8d58cf8a3.png",
+    "index.html": "/index.html",
+    "main.eadfbae9.css.map": "/static/css/main.eadfbae9.css.map",
+    "main.97b77087.js.map": "/static/js/main.97b77087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eadfbae9.css",
+    "static/js/main.97b77087.js"
+  ]
+}
